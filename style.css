@@ -12,7 +12,6 @@ body{
     background-color: lightgray;
     border-radius: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    position: relative;
 }
 
 h2{
@@ -23,7 +22,7 @@ h2{
     width: 7rem;
     height: 3rem;
     background-color: black;
-    margin-left: 9rem;
+    margin-left: 150px;
     border: 2px solid black;
     border-radius: 50px;
 }
